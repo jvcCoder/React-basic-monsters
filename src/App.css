@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+
+  h1{
+    font-family: Kirang Haerang;
+    font-size: 50;
+    color: chocolate;
+  }
 }
